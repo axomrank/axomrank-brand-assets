@@ -1,4 +1,23 @@
-# AxomRank brand and social media asset library
+# AxomRank Brand Assets: brand kit, illustrations and social media library
+
+> AxomRank brand kit (logos, colours, fonts, templates), 36 master illustrations, social media carousels, campaign plans and asset-rights records.
+
+[Part of AxomRank](https://github.com/axomrank)
+
+## At a glance
+
+- **Brand kit v1:** logos, wordmarks, colour tokens (maroon `#80151A`, ivory `#F7F2EC`, gold `#A77B37`), Noto Sans and Noto Sans Bengali, and English/Assamese social templates
+- **36 master illustrations** with a searchable gallery
+- **Instagram carousels, reel scripts** and the content strategy
+- **Rights records:** permissions, clearance and consent templates for every asset
+
+## Quick start
+
+```bash
+python3 scripts/validate_library.py
+```
+
+## Overview
 
 AxomRank is currently a learning app. Its wider ambition is a trusted starting point for information about Assam: learning, education opportunities, places, culture and everyday information. This repository stores the brand assets, editorial plans, research references and production records supporting that journey. Expanded services in the roadmap are proposals, not launched capabilities.
 
@@ -51,3 +70,32 @@ The original documents and third-party references retain their own ownership and
 ## Source-based pilot assets
 
 [Downloaded real media, dated GIS masters and official-source records](source-assets/pilot-v1/README.md), with [portable gallery](source-assets/pilot-v1/gallery.html) and explicit review/acquisition gaps.
+
+## Roadmap: future improvements
+
+- [ ] Make one approved "current" folder per campaign, separate from drafts
+- [ ] Add Open Graph and blog header templates generated from the brand tokens
+- [ ] Write a Telegram and WhatsApp channel kit (banners, post templates)
+- [ ] Move large media to R2 or Git LFS
+- [ ] Get a real proprietor photo, with recorded permission
+
+## For AI agents and contributors
+
+Read [AGENTS.md](AGENTS.md). Never treat a draft or export as approved just because it is present, and record rights before publishing any asset.
+
+Commit as the `axomrank` account. Keep changes small and reviewable, and run the repository's checks before pushing.
+
+## Part of AxomRank
+
+[AxomRank](https://axomrank.pages.dev) offers free, bilingual preparation for Assam government exams. Related repositories:
+
+- **Learn:** [axomrank.github.io](https://github.com/axomrank/axomrank.github.io) (the AxomRank learning app), [ahom-kings-lessons](https://github.com/axomrank/ahom-kings-lessons) (41 bilingual Ahom reign lessons), [floor-test-simulator](https://github.com/axomrank/floor-test-simulator) (parliamentary majority simulator)
+- **Explore Assam history:** [ahom-kingdom-history](https://github.com/axomrank/ahom-kingdom-history) (illustrated Ahom kingdom website), [assam-history-map](https://github.com/axomrank/assam-history-map) (year-by-year historical map), [assam-history-characters](https://github.com/axomrank/assam-history-characters) (character sheets for Assam's history), [assam-visual-archive](https://github.com/axomrank/assam-visual-archive) (gallery of Assam scenes and photographs), [assam-heritage-ai-art](https://github.com/axomrank/assam-heritage-ai-art) (AI art gallery of Assamese heritage)
+- **Open data:** [assam-exam-pyq](https://github.com/axomrank/assam-exam-pyq) (2,398 previous-year questions with answers), [assam-exam-syllabus](https://github.com/axomrank/assam-exam-syllabus) (syllabi for 12 recruitment boards), [assam-maps](https://github.com/axomrank/assam-maps) (map portal and GIS layers), [assam-history-sources](https://github.com/axomrank/assam-history-sources) (Kamarupa inscriptions and primary sources)
+- **Publishing and brand:** [axomrank-blog](https://github.com/axomrank/axomrank-blog) (exam guides built from real papers), [assam-history-books](https://github.com/axomrank/assam-history-books) (13-book history of Assam)
+
+## License and contact
+
+No blanket license. Each asset's rights are recorded in `rights/`.
+
+Corrections and questions: open an issue in this repository. AxomRank is run by Angsuman Das (sole proprietor).

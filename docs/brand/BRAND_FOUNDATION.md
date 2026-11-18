@@ -57,4 +57,4 @@ Do not advertise a complete statewide directory or news service before coverage 
 
 ## Evidence reviewed
 
-The two original DOCX guides were read for their text. CAROUSEL_PREFERENCES.md records the October 9 decisions. The local book title record confirms naming and incomplete manuscript status. [Application README](https://github.com/axomrank/Axomrank/blob/main/README.md) was read on 11 October 2026. No live Instagram analytics, customer interviews or visual redesign of the original guides was performed.
+The two original DOCX guides were read for their text. CAROUSEL_PREFERENCES.md records the October 9 decisions. The local book title record confirms naming and incomplete manuscript status. [Application README](https://github.com/axomrank/axomrank.github.io/blob/main/README.md) was read on 11 October 2026. No live Instagram analytics, customer interviews or visual redesign of the original guides was performed.
